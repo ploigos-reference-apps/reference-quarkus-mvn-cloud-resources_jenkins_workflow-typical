@@ -1,3 +1,3 @@
 replicaCount: 1
 image:
-  tag: registry-internal-nexus.apps.tssc.rht-set.com/ploigos-ref/ref-quarkus-mvn-jenkins-typ-fruit:1.0.2-feature_jenkins-params-refactor # written by ploigos-step-runner
+  tag: registry-internal-nexus.apps.tssc.rht-set.com/ploigos-ref/ref-quarkus-mvn-jenkins-typ/fruit@sha256:7fb3340f094a158ace98de0c3507bfa1ef6a4770d959cb44cf6843dc2720a1fa # written by ploigos-step-runner
